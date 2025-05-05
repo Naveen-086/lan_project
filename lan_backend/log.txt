@@ -1,0 +1,4 @@
+Shutdown command sent to 192.168.234.50
+Shutdown command sent to 192.168.234.50
+Shutdown command sent to 192.168.234.50
+Shutdown command sent to 192.168.234.50
